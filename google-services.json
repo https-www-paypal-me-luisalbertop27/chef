@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50923859659",
+    "project_id": "paymet-striper-and-paypapl",
+    "storage_bucket": "paymet-striper-and-paypapl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50923859659:android:dde38d987050a172ed754e",
+        "android_client_info": {
+          "package_name": "Com.plataformas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50923859659-14u4au509dfgnt5t0vajl00erk1hamdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBxthrXw0TlEK41CMF1lTzPH7hEAYxCsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50923859659-14u4au509dfgnt5t0vajl00erk1hamdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
